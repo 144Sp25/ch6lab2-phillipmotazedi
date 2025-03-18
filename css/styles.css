@@ -206,8 +206,9 @@ print {
         font-size: 1.5em;
     }
 
-    nav li a {padding: 0.5em, 1.5em, 0.5em, 1.5em
-    }
+nav li a {
+    padding: 0.5em 1.5em 0.5em 1.5em;  
+}
     
     nav li a:hover { 
     color: #2a1f14;
